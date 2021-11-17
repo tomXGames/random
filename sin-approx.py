@@ -1,6 +1,6 @@
 import math
 
-x = math.pi/2
+x = 45
 result = x
 
 for i in range(1, 1000000):

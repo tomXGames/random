@@ -7,7 +7,7 @@ function setup() {
 
 function draw() {
   background(220);
-  var element = 16;
+  var element = 20;
   translate(width / 2, height / 2);
   fill(232, 201, 20);
   circle(0, 0, 20);
